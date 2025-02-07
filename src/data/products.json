@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Casque Razer BlackShark V2 Pro",
+      "price": 199.99,
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=300"
+    },
+    {
+      "id": "2",
+      "name": "Clavier Mécanique RGB",
+      "price": 159.99,
+      "stock": 8,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=300"
+    },
+    {
+      "id": "3",
+      "name": "Souris Gaming 16K DPI",
+      "price": 79.99,
+      "stock": 23,
+      "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=300"
+    },
+    {
+      "id": "4",
+      "name": "Écran Gaming 27\" 165Hz",
+      "price": 349.99,
+      "stock": 5,
+      "image": "https://images.unsplash.com/photo-1527219525722-f9767a7f2884?w=300"
+    }
+  ]
+}
